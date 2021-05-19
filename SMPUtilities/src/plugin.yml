@@ -1,0 +1,19 @@
+name: SMPUtilities
+version: 1.0
+author: Henry
+main: me.henry.SMPUtilities.Main
+description: Adds bank and stuff
+
+commands:
+  deposit:
+    description: /deposit deposits the thing in your hand
+  withdraw:
+    description: /withdraws the amount of the item you want to your hand. e.g. /withdrawmminecraft:diamond 64
+  account:
+    description: /account displays the content of your bank account
+  withdrawmessy:
+    description: /withdrawmessy withdraws items and drops them in the world
+  depositall:
+    description: /depositall deposits all items in your inventory
+  withdrawall:
+    description: /withdrawall withdraws all items in your bank
